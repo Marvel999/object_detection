@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cot resize</folder>
+	<filename>IMG_20190624_130552.jpg</filename>
+	<path>C:\Users\Pooja\Downloads\cot resize-20190628T180128Z-001\cot resize\IMG_20190624_130552.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>272</ymin>
+			<xmax>133</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>447</ymin>
+			<xmax>420</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>
